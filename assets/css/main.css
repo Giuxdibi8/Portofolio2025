@@ -72,7 +72,7 @@ html { box-sizing: border-box; }
 /* BG */
 
 #bg {
-    background: #111627; /* Solo colore, niente immagine */
+    background: #111627; /* colore scelto */
     background-image: none;
     height: 100%;
     left: 0;
@@ -80,6 +80,7 @@ html { box-sizing: border-box; }
     position: fixed;
     top: 0;
 }
+
 
 /* Overlay */
 
